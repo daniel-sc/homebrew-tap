@@ -15,6 +15,6 @@ Update with `brew upgrade --cask daniel-sc/tap/c100x`.
 
 ## Maintenance
 
-After each published alpha release, manually update `Casks/c100x.rb` with the
+After each published release, manually update `Casks/c100x.rb` with the
 version and published DMG SHA-256. Follow the project's
 [release guide](https://github.com/daniel-sc/bticino-c100x-firmware-tools/blob/main/docs/RELEASING.md#homebrew-tap-follow-up).
