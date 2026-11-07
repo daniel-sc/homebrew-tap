@@ -1,6 +1,6 @@
 cask "c100x" do
-  version "0.1.0"
-  sha256 "ac729533976a06b44e83c6ecd42cc54ccfa87ef05f865da4c532f3328c34ba2b"
+  version "0.2.0"
+  sha256 "b10acc454012866d95ca465c170eac378a6cdf9c80904078722ae67feaead05d"
 
   url "https://github.com/daniel-sc/bticino-c100x-firmware-tools/releases/download/v#{version}/c100x-v#{version}-macos-arm64.dmg"
   name "C100X"
