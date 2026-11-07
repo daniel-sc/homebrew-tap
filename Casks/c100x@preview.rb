@@ -1,6 +1,6 @@
 cask "c100x@preview" do
-  version "0.2.0-alpha.1"
-  sha256 "cce7107311f61e29b2c86095730e86a1dab6680e6672d55ea61fa6c0aa39ae9e"
+  version "0.2.0-alpha.2"
+  sha256 "1bea5f8a000107f59133cbbe4b758fca82cff77e3fbcea24ea44c46f8ba0cdfb"
 
   url "https://github.com/daniel-sc/bticino-c100x-firmware-tools/releases/download/v#{version}/c100x-v#{version}-macos-arm64.dmg"
   name "C100X Preview"
